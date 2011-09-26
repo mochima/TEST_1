@@ -1,5 +1,5 @@
-def printHello
+def printHello1
   print("Hello?n")
 end
 
-printHello
+printHello1
